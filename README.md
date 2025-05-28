@@ -1,6 +1,4 @@
 # Gambler_Pinata_AI
-<<<<<<< HEAD
-=======
 
 ## Introduction
 The **Gambler_Pinata_AI** is an AI-driven automation system designed to interact with online games. It features a modular architecture with components for browser automation, betting optimization, scatter detection, and user interaction.
@@ -72,4 +70,3 @@ Contributions are welcome! Fork this repository, create a branch, and submit a p
 
 ## License
 [MIT License](LICENSE)
->>>>>>> 802adbef86ca9fdfa61eebccf6e44e21a91c986d
